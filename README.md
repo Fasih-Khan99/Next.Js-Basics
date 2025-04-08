@@ -1,3 +1,17 @@
+## Hello coders!
+This repo contains all the basic concepts you need to kick start your Next.js journey. 
+It covers all the following concepts: 
+- Introduction to Next.js 15
+- Development Environment
+- Project Structure
+- Server & Client Components
+- App Router for defining pages and layouts
+- Navigation
+- Route Handlers (API Routes)
+- Data Fetching Strategies
+- Data Mutation with Server Actions
+- Authentication
+
 This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
 
 ## Getting Started
